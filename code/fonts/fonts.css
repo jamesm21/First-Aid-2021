@@ -1,0 +1,33 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+@font-face {
+	font-family: "SFProDisplay-Bold";
+    src: url(SFProDisplay-Bold.otf);
+	}
+	
+@font-face {
+	font-family: "SFProDisplay-Regular";
+    src: url(SFProDisplay-Regular.otf);
+	}
+
+@font-face {
+font-family: "SFProDisplay-Semibold";
+    src: url(SFProDisplay-Semibold.otf);
+	}
+	
+@font-face {
+	font-family: "SFProText-Bold";
+    src: url(SFProText-Bold.otf);
+	}
+
+@font-face {
+	font-family: "SFProText-Regular";
+    src: url(SFProText-Regular.otf);
+}
+
+@font-face {
+	font-family: "SFProText-Semibold";
+    src: url(SFProText-Semibold.otf);
+}
