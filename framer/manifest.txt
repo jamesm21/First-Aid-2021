@@ -156,7 +156,6 @@ design/images/qMmE3fo7iQhzC95xBocQDKCcvQ.png
 design/images/qD23EkDsWYonjlxBI9rl82tGaw.png
 design/images/oB0fzkHQ7gXHoU7uQZP7gq7e7Y.png
 design/images/mWLmGIdeq8JvcxOpiSVf0haIkxU.png
-design/images/lMlNCiFBFc7fhADpw4pfyD8hSQ.jpg
 design/images/lDZ64OXJCcZfRCsSigMvxHwcA4.png
 design/images/kk905evR9ZqJ7ts3g4vSGyelT80.png
 design/images/kk7LVHiljT8x2S9NXdA3ziWT40.png
@@ -199,7 +198,6 @@ design/images/PXA7B4NBkgkX1FkNHH4wlrz5Ng.png
 design/images/PIum3Gjyp9dk5oD5D2SiSc29aPc.png
 design/images/P5qSY84geAGM6PsRbswuV4Y0.png
 design/images/Oa8Zcakq7CZpe8F7Lp3G9vas7RY.png
-design/images/NMDa4KPD2MqQ665YiU1UceholLI.png
 design/images/N4hA7IwirJU52UwM82Kr7DcCtw.png
 design/images/MpDht1RNskstFxCzNbmXET90.png
 design/images/M3jDs87z8oAfAk1BkOL0nvcOGE.png
@@ -212,7 +210,6 @@ design/images/HpvVEVpdUqNhjPo99JfaaFn0jM.png
 design/images/EeCtz634iUqA64oUtnN8Bw10GOE.png
 design/images/EMuTVo0eKaqi793J5t3JSPMUlRs.png
 design/images/DGqDbIxoC5Cywkw8BAH456enmtQ.png
-design/images/CIcGrIGMdmRbJkvgpftMDvU1Dqs.png
 design/images/Aevu9S1hnPPzGCOIy7PgAuGoEgc.jpg
 design/images/AW8DEJGGuNmOIYeW8HpFZMhVjd8.png
 design/images/AH2MTxXx3aqZQZgJ9ZRuFMYDQ.png
